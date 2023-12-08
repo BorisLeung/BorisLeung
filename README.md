@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Boris here. I am interested in learning AI and machine learnring related fields. I am also excited about stocks and algo-trading. I am currently working on some algo-trading projects that might incorporate reinforcement learning in a later stage. My favourtie hobby is defintiely playing drums :P!!!
+Boris here. I am interested in learning AI and machine learnring related fields. I am also excited about stocks and algo-trading. I am currently working on some algo-trading projects!!!
